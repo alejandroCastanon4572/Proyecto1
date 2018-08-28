@@ -1,0 +1,10 @@
+C:\Users\familia cardona\source\repos\basededatos\basededatos\bin\Debug\basededatos.exe.config
+C:\Users\familia cardona\source\repos\basededatos\basededatos\bin\Debug\basededatos.exe
+C:\Users\familia cardona\source\repos\basededatos\basededatos\bin\Debug\basededatos.pdb
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.csprojAssemblyReference.cache
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.Form1.resources
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.Properties.Resources.resources
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.csproj.GenerateResource.cache
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.csproj.CoreCompileInputs.cache
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.exe
+C:\Users\familia cardona\source\repos\basededatos\basededatos\obj\Debug\basededatos.pdb
